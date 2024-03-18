@@ -1,0 +1,47 @@
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 13px;
+    width: 80px;
+    position: fixed;
+    left: 0px;
+    top: 60px;
+    padding-top: 20px;
+    z-index: 3;
+    background-color: white;
+    bottom: 0px;
+    border-right: 1px solid rgba(128, 128, 128, 0.388);
+    
+}
+
+.home{
+    margin-top: 30px;
+}
+
+.sidebar a{
+    text-decoration: none;
+    margin-bottom: 20px;
+
+}
+.sidebar img{
+    align-items: center;
+}
+
+#home{
+    padding-left: 1.2px;
+
+}
+
+#sub{
+    padding-left: 25px;
+}
+
+#shorts{
+    padding-left: 5px
+}
+
+#you{
+    width: 25px;
+}
+
